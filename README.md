@@ -1,1 +1,1 @@
-Simple CRUD app
+Simple FLASK CRUD app
