@@ -1,1 +1,1 @@
-Simple FLASK CRUDD LL app
+Simple FLASK CRUDD app
